@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gaming &#8211; TechBlog</title>
-	<atom:link href="/category/gaming/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/category/gaming/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:21:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +21,14 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Gadgets</title>
-		<link>/gadgets/</link>
-					<comments>/gadgets/#respond</comments>
+		<link>https://treexl3.github.io/techblog-wordpress/gadgets/</link>
+					<comments>https://treexl3.github.io/techblog-wordpress/gadgets/#respond</comments>
 		
 		<dc:creator><![CDATA[treexl]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 19:16:10 +0000</pubDate>
 				<category><![CDATA[Gadgets]]></category>
 		<category><![CDATA[Gaming]]></category>
-		<guid isPermaLink="false">/?p=87</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=87</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum....]]></description>
 										<content:encoded><![CDATA[
@@ -39,21 +39,21 @@
 <p>Nulla optio numquam neque libero blanditiis quaerat cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gadgets/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treexl3.github.io/techblog-wordpress/gadgets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Gaming</title>
-		<link>/gaming/</link>
-					<comments>/gaming/#respond</comments>
+		<link>https://treexl3.github.io/techblog-wordpress/gaming/</link>
+					<comments>https://treexl3.github.io/techblog-wordpress/gaming/#respond</comments>
 		
 		<dc:creator><![CDATA[treexl]]></dc:creator>
 		<pubDate>Fri, 09 Jun 2023 13:11:07 +0000</pubDate>
 				<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Tutorials]]></category>
-		<guid isPermaLink="false">/?p=26</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=26</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum....]]></description>
 										<content:encoded><![CDATA[
@@ -66,22 +66,22 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gaming/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treexl3.github.io/techblog-wordpress/gaming/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Music</title>
-		<link>/music/</link>
-					<comments>/music/#respond</comments>
+		<link>https://treexl3.github.io/techblog-wordpress/music/</link>
+					<comments>https://treexl3.github.io/techblog-wordpress/music/#respond</comments>
 		
 		<dc:creator><![CDATA[treexl]]></dc:creator>
 		<pubDate>Fri, 09 Jun 2023 13:10:07 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Tutorials]]></category>
-		<guid isPermaLink="false">/?p=23</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=23</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum....]]></description>
 										<content:encoded><![CDATA[
@@ -94,22 +94,22 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/music/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treexl3.github.io/techblog-wordpress/music/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Philosophy</title>
-		<link>/philosophy/</link>
-					<comments>/philosophy/#comments</comments>
+		<link>https://treexl3.github.io/techblog-wordpress/philosophy/</link>
+					<comments>https://treexl3.github.io/techblog-wordpress/philosophy/#comments</comments>
 		
 		<dc:creator><![CDATA[treexl]]></dc:creator>
 		<pubDate>Fri, 09 Jun 2023 13:00:43 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Gaming]]></category>
 		<category><![CDATA[Tutorials]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=1</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum....]]></description>
 										<content:encoded><![CDATA[
@@ -122,7 +122,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/philosophy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treexl3.github.io/techblog-wordpress/philosophy/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

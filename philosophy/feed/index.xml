@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Philosophy	</title>
-	<atom:link href="/philosophy/feed/" rel="self" type="application/rss+xml" />
-	<link>/philosophy/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/philosophy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/philosophy/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:21:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/philosophy/#comment-1</link>
+		<link>https://treexl3.github.io/techblog-wordpress/philosophy/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 09 Jul 2023 12:42:10 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

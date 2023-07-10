@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Security	</title>
-	<atom:link href="/security/feed/" rel="self" type="application/rss+xml" />
-	<link>/security/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/security/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/security/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:17:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

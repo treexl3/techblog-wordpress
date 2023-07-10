@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gadgets &#8211; TechBlog</title>
-	<atom:link href="/category/gadgets/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/category/gadgets/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:16:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +21,14 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Gadgets</title>
-		<link>/gadgets/</link>
-					<comments>/gadgets/#respond</comments>
+		<link>https://treexl3.github.io/techblog-wordpress/gadgets/</link>
+					<comments>https://treexl3.github.io/techblog-wordpress/gadgets/#respond</comments>
 		
 		<dc:creator><![CDATA[treexl]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 19:16:10 +0000</pubDate>
 				<category><![CDATA[Gadgets]]></category>
 		<category><![CDATA[Gaming]]></category>
-		<guid isPermaLink="false">/?p=87</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=87</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum....]]></description>
 										<content:encoded><![CDATA[
@@ -39,7 +39,7 @@
 <p>Nulla optio numquam neque libero blanditiis quaerat cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gadgets/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treexl3.github.io/techblog-wordpress/gadgets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

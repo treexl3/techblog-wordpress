@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Music	</title>
-	<atom:link href="/music/feed/" rel="self" type="application/rss+xml" />
-	<link>/music/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/music/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/music/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:21:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

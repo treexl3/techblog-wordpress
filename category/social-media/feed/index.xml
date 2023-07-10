@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Social Media &#8211; TechBlog</title>
-	<atom:link href="/category/social-media/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/category/social-media/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:16:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +21,14 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Social Media</title>
-		<link>/social-media/</link>
-					<comments>/social-media/#respond</comments>
+		<link>https://treexl3.github.io/techblog-wordpress/social-media/</link>
+					<comments>https://treexl3.github.io/techblog-wordpress/social-media/#respond</comments>
 		
 		<dc:creator><![CDATA[treexl]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 19:16:41 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[Social Media]]></category>
-		<guid isPermaLink="false">/?p=91</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=91</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum....]]></description>
 										<content:encoded><![CDATA[
@@ -39,7 +39,7 @@
 <p>Nulla optio numquam neque libero blanditiis quaerat cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/social-media/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treexl3.github.io/techblog-wordpress/social-media/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Gadgets	</title>
-	<atom:link href="/gadgets/feed/" rel="self" type="application/rss+xml" />
-	<link>/gadgets/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/gadgets/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/gadgets/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:16:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

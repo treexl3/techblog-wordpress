@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Startups &#8211; TechBlog</title>
-	<atom:link href="/category/startups/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/category/startups/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:18:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +21,14 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Startups</title>
-		<link>/startups/</link>
-					<comments>/startups/#respond</comments>
+		<link>https://treexl3.github.io/techblog-wordpress/startups/</link>
+					<comments>https://treexl3.github.io/techblog-wordpress/startups/#respond</comments>
 		
 		<dc:creator><![CDATA[treexl]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 19:18:24 +0000</pubDate>
 				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Tutorials]]></category>
-		<guid isPermaLink="false">/?p=99</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=99</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum....]]></description>
 										<content:encoded><![CDATA[
@@ -39,21 +39,21 @@
 <p>Nulla optio numquam neque libero blanditiis quaerat cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/startups/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treexl3.github.io/techblog-wordpress/startups/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Apps</title>
-		<link>/apps/</link>
-					<comments>/apps/#respond</comments>
+		<link>https://treexl3.github.io/techblog-wordpress/apps/</link>
+					<comments>https://treexl3.github.io/techblog-wordpress/apps/#respond</comments>
 		
 		<dc:creator><![CDATA[treexl]]></dc:creator>
 		<pubDate>Mon, 10 Jul 2023 19:15:15 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
 		<category><![CDATA[Startups]]></category>
-		<guid isPermaLink="false">/?p=85</guid>
+		<guid isPermaLink="false">https://treexl3.github.io/techblog-wordpress/?p=85</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum....]]></description>
 										<content:encoded><![CDATA[
@@ -64,7 +64,7 @@
 <p>Nulla optio numquam neque libero blanditiis quaerat cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ipsum, corrupti facere omnis labore a provident voluptates soluta eligendi sunt? Molestias, suscipit! Nulla optio numquam neque libero blanditiis quaerat cum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/apps/feed/</wfw:commentRss>
+					<wfw:commentRss>https://treexl3.github.io/techblog-wordpress/apps/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

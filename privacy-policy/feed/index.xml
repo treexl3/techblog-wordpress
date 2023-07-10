@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/privacy-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/</link>
 	<description></description>
 	<lastBuildDate>Sun, 09 Jul 2023 12:43:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

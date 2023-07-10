@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Gaming	</title>
-	<atom:link href="/gaming/feed/" rel="self" type="application/rss+xml" />
-	<link>/gaming/</link>
+	<atom:link href="https://treexl3.github.io/techblog-wordpress/gaming/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treexl3.github.io/techblog-wordpress/gaming/</link>
 	<description></description>
 	<lastBuildDate>Mon, 10 Jul 2023 19:21:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
